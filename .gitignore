@@ -7,3 +7,10 @@
 *.iml
 out
 gen
+venv
+*.NEF
+*.CHK
+DSC_1607.NEF
+FILE0004.CHK
+FILE0005.CHK
+venv/
